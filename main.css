@@ -1,0 +1,39 @@
+.cuadroGrande {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  margin-left: 300px;
+  margin-top: 50px
+}
+#rosa {
+  background: DarkTurquoise;
+}
+#morado {
+  position: absolute;
+  background: Teal;
+  height: 100px;
+  width: 100px;
+  left: 50px;
+  top: 50px;
+}
+#amarillo {
+  background: LawnGreen;
+  height: 50px;
+  width: 50px;
+}
+#azul {
+  background: blue;
+}
+#negro {
+  background: black;
+  height: 50px;
+  width: 50px;
+}
+#verde {
+  position: absolute;
+  background: green;
+  height: 100px;
+  width: 100px;
+  left: 50px;
+  top: 50px;
+}
